@@ -1,0 +1,4 @@
+Process,Allocation_A,Allocation_B,Allocation_C,Max_A,Max_B,Max_C
+P0,0,1,0,7,5,3
+P1,2,0,0,3,2,2
+P2,3,0,2,9,0,2
